@@ -35,6 +35,7 @@
 }
 
 #trending {
+  left: unset;
   right: 0;
 }
 
